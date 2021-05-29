@@ -49,7 +49,7 @@
   "dependencies": {
     "eventsource": "latest",
     "fetch": "latest",
-    "ws": "^6.2.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@hypertype/core": "^2.0.0",
